@@ -3,4 +3,6 @@ A FreeCAD Toolbar that provides a responsive collection of commands based on use
 
 FreeCAD AI Toolbar brings artificial intelligence into the FreeCAD ecosystem, while respecting user data.
 
+Follow this tutorial and adapt to this use case: [https://www.youtube.com/watch?v=w8yWXqWQYmU]([https://link-url-here.org](https://www.youtube.com/watch?v=w8yWXqWQYmU))
+
 ![FreeCAD AI Toolbar](freecad-ai-toolbar-scan.jpg)
